@@ -9,6 +9,6 @@ public class SenderDetails {
 
     private String firstName;
     private String lastName;
-    private String altEmail;
+    private Strgit ing altEmail;
 
 }

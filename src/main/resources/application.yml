@@ -1,0 +1,14 @@
+mail:
+  to-id: abc@gmail.com
+  from-id: cde@gmail.com
+  port: 876
+  url: smtp://test.com
+  cc-id:
+    - abc@outlook.com
+    - cde@outlook.com
+    - efg@outlook.com
+  sender:
+    first-name: test
+    last-name: test
+    alt-email: test@gmail.com
+  sender-size: 100
